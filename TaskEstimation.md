@@ -31,9 +31,9 @@ Check again for overlooked activities.
 
 ## Bad Practices in Task Estimation
 Here are some mistakes that are commonly made when estimating tasks that should be avoided to ensure that you getthe best results:
-- Over optimisation
-- Unclear/poorly defined requirements
-- External pressure e.g. pressure from Executives
+- **Over optimism:** What this can do is cause estimates to be made assuming the best case scenario in all cases. This can cause inaccurate estimation as things will not always be perfect
+- **Unclear/poorly defined requirements:** When requirements are unclear it will skew all estimates made. Once the initial information is inaccurate, everything afterwards will also be inaccurate
+- **External pressure e.g. pressure from Executives:** pressure can lead to things being rushed and also for work not to be done within your means
 
 Below are some links for further reading on bad practices with task estimation
 
