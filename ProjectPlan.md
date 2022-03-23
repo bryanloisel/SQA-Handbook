@@ -20,7 +20,7 @@ Our first meeeting was on Wednesday 16th March. We decided that our first pushes
  
 ## Bryan & Marks Plan for Task Estimation in Scrum Task
 - Have a call in order to determine the factors of task estimation and split the factors amongst ourselves
-- Search the internet for informatio regarding our own parts of this section of the project
+- Search the internet for information regarding our own parts of this section of the project
  
  
 ## Bryan and Marks Plan for Coding Standards Task
